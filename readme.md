@@ -1,5 +1,8 @@
 # Building RedPill loader with Github action
 
+仅自用测试，请勿使用！ 感谢项目作者！如需请使用原作者的！
+
+
 DS918+ & DS3615xs DSM 6.2.4/7.0 loader
 
 [RedPill-TTG/redpill-lkm](https://github.com/RedPill-TTG/redpill-lkm)
